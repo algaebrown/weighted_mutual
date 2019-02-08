@@ -1,0 +1,8 @@
+,domain_one,domain_two,domain_three
+protein_one,0,1,1
+protein_two,0,1,1
+protein_three,1,1,1
+protein_four,1,0,0
+protein_five,1,1,1
+protein_six,1,1,0
+protein_seven,1,1,1

@@ -1,0 +1,16 @@
+# do not upload database passwd
+*.ini
+
+# # Compiled python modules.
+*.pyc
+
+# Setuptools distribution folder.
+/dist/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+
+# some test results
+weighted_mutual/test
+weighted_mutual/test_real
+test_file/domain_abs
